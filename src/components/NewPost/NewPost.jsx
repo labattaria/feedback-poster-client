@@ -1,4 +1,4 @@
-import styles from './NewPost.module.css';
+import styles from './NewPost.module.scss';
 
 function NewPost() {
   return (
