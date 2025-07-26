@@ -1,8 +1,8 @@
-function Post() {
+function Post({ author, body }) {
     return (
         <div>
-            <p>Niko</p>
-            <p>React Is Awesome!</p>
+            <p>{author}</p>
+            <p>{body}</p>
         </div>
     );
 }
