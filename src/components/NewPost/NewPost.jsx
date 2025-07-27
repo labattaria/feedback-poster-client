@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import styles from './NewPost.module.scss';
 
-function NewPost({ onCancel }) {
+function NewPost({ onCancel, onAddPost }) {
   const [bodyValue, setBodyValue] = useState('');
   const [authorValue, setAuthorValue] = useState('');
 
@@ -21,6 +21,7 @@ function NewPost({ onCancel }) {
       author: authorValue
     }
 
+    onAddPost(postData);
     onCancel();
   }
 
