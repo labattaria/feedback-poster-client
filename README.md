@@ -6,6 +6,8 @@
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](#)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](#)
 
@@ -22,6 +24,7 @@ But you can use this app manually on your local machine
 - **Vite** - A fast and modern build tool that provides lightning-fast hot module replacement (HMR) for development, optimized for frameworks
 - **React** - Library used for building user interfaces, particularly for single-page applications where you need a fast, interactive experience
 - **React Router DOM** - Routing library for managing navigation in React apps
+- **TypeScript** – Static typing for safer and more maintainable code
 - **SASS** - CSS preprocessor with advanced features like variables and nesting
 
 The full list of dependencies can be found in the **package.json** file.
